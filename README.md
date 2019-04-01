@@ -1,5 +1,3 @@
-# OverwatchClicky
-
 # Clicky Game
 
 ## Overview

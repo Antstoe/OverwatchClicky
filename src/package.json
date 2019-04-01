@@ -1,0 +1,25 @@
+{
+  "name": "overwatch_clicky",
+  "version": "1.0.0",
+  "description": "Clicky Game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Antstoe/OverwatchClicky.git"
+  },
+  "keywords": [
+    "React",
+    "Heroku",
+    "Clicky",
+    "Game"
+  ],
+  "author": "Antony Liu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Antstoe/OverwatchClicky/issues"
+  },
+  "homepage": "https://github.com/Antstoe/OverwatchClicky#readme"
+}
